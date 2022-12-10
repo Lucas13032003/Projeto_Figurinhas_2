@@ -42,6 +42,8 @@ public class Propietario {
 	}
 	
 	//outros metodos
+	public void cadastrarAlbum_Figurinha(Album_Figurinha albumFigurinha) {
+		albumFigurinha.add(albumFigurinha);
 
 
 	}
